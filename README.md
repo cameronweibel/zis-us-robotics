@@ -1,13 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to ZIS US Robotics
 
-You can use the [editor on GitHub](https://github.com/cameronweibel/zis-us-robotics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page contains relevant links to tutorials and other media to support your development of the [EduExo](https://www.eduexo.com/) kit.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s4b65eacddb191444/image/i3daacec48e4f5c64/version/1493742036/image.png" width="400">
 
-### Markdown
+### Overview
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+To build the kit, an understanding of Arduino, programming, and basic circuit theory is necessary. Use the sections below to familiarize yourself with the topics, and feel free to email cweibelbusiness@gmail.com if you have any questions.
 ```markdown
 Syntax highlighted code block
 
