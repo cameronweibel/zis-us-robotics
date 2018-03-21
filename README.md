@@ -4,33 +4,19 @@ This page contains relevant links to tutorials and other media to support your d
 
 <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s4b65eacddb191444/image/i3daacec48e4f5c64/version/1493742036/image.png" width="400">
 
-### Overview
+To build the kit, an understanding of Arduino and basic circuit theory is necessary. Use the sections below to familiarize yourself with the topics, and feel free to email cweibelbusiness@gmail.com if you have any questions.
 
-To build the kit, an understanding of Arduino, programming, and basic circuit theory is necessary. Use the sections below to familiarize yourself with the topics, and feel free to email cweibelbusiness@gmail.com if you have any questions.
-```markdown
-Syntax highlighted code block
+### Arduino Tutorials
+https://www.arduino.cc/en/Tutorial/Foundations - Arduino website contains all of the necessary tutorials to get started
+http://www.ladyada.net/learn/arduino/
+https://www.youtube.com/playlist?list=PLA567CE235D39FA84 - Jeremy Blum's (a real nerd) Youtube videos highlighting the fundamentals
 
-# Header 1
-## Header 2
-### Header 3
+### Circuit Theory
+https://www.youtube.com/watch?v=abWCy_aOSwY - Jeremy Blum's electrical engineering (EE) basics
+https://www.allaboutcircuits.com/textbook/ - Lessons in electronic circuits (Vol 1. recommended)
 
-- Bulleted
-- List
+### Programming
+I recommend Python if you want to get familiar with programming.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cameronweibel/zis-us-robotics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_ - thenewboston (funny guy)
+http://docs.python-guide.org/en/latest/ - The Hitchhiker's Guide to Python
