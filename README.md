@@ -26,3 +26,4 @@ I recommend Python if you want to get familiar with programming.
 I am no Unity expert, but here are a few helpful links.
 
 * https://www.youtube.com/watch?v=G9BdFZ2MCXc&list=PLZ1b66Z1KFKik2g8D4wrmYj4yein4rCk8&index=1
+* https://www.youtube.com/watch?v=of_oLAvWfSI - Connecting Arduino to Unity
